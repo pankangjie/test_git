@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello3
-=======
-hello1
->>>>>>> parent of 3ad7bc6... hello2
