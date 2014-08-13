@@ -1,9 +1,6 @@
 hello1
 <<<<<<< HEAD
-<<<<<<< HEAD
 hello2
 hello3
-=======
->>>>>>> parent of 3ad7bc6... hello2
 =======
 >>>>>>> parent of 3ad7bc6... hello2
